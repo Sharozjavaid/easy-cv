@@ -1,0 +1,4 @@
+interface:
+  display_name: "Easy CV"
+  short_description: "Connect everyday movements to camera inputs"
+  default_prompt: "Use $easy-cv to count each completed squat and call my onPoint callback once."
